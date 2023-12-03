@@ -1,3 +1,4 @@
+#This is my first try, I have simplified and made the code faster in the _improved.py file.
 import numpy as np
 
 with open("2023/day3/input.txt") as f:
